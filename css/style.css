@@ -25,3 +25,14 @@ body{
 #main-doc{
     padding-left: 300px;
 }
+
+code {
+    background-color: rgba(178, 184, 182, 0.715);
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.main-section {
+    padding : 20px;
+
+}
