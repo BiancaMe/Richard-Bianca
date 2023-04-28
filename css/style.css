@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#navbar{
+    position:fixed;
+    left:0%;
+    border-right: solid;
+    width: 300px;
+    height: 100%;
+    text-align: center;
+}
+#navbar li{
+    list-style: none;
+    border-top: solid;
+    padding-left: 0px;
+    text-align: left;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+
+#main-doc{
+    padding-left: 300px;
+}
